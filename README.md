@@ -1,8 +1,10 @@
+# computer-simulation
+
+
 # Pseudorandom-number-tests
 pseudorandom number tests like chi-square test, kolmogorv smirnov test, poker test, etcetera.
 
 
-# computer-simulation
 
 ## Integrantes
 ### Andrés Felipe Nausan Fajardo

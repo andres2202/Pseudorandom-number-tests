@@ -34,5 +34,5 @@ source env/bin/activate
 
 pip install -r requirements.txt
 
-5. Ejecutar el Proeycto
+5. Ejecutar el Proyecto
 python index.py
